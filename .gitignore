@@ -1,0 +1,16 @@
+# Superseded files staged for manual deletion
+_to_delete/
+
+# Dependencies
+node_modules/
+
+# Local Claude Code settings (machine-specific permission grants)
+.claude/settings.local.json
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+
+# Local scenario exports
+cluster-scenario*.json
